@@ -37,7 +37,7 @@ Esta es una aplicación de consola en Java que permite convertir entre diferente
 ## Tecnologías utilizadas
 
 **Java**: Lenguaje de programación
-- jdk 17: Descárgalo [Instalacion JDK java](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe ( sha256)).
+- jdk 17: [Instalacion JDK java](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe ( sha256)).
 
 **Gson**: Biblioteca para manejar JSON
 - Jar version 2.11.0 [jar gson](https://mvnrepository.com/artifact/com.google.code.gson/gson/2.11.0).
