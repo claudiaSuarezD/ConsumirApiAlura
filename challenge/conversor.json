@@ -1,0 +1,14 @@
+[
+  {
+    "monedaOrigen": "USD",
+    "monedaConvertir": "COP",
+    "cantidad": 5.0,
+    "resultado": 21184.8295
+  },
+  {
+    "monedaOrigen": "COP",
+    "monedaConvertir": "USD",
+    "cantidad": 4000.0,
+    "resultado": 0.94408
+  }
+]
